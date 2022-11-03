@@ -18,4 +18,4 @@ Unfortunaetly, contributions to these scripts beyond critical security exploits 
 
 ## Reporting Bugs
 
-If you've identified a bug or security exploit with any of these scripts, please responsibly disclose it by emailing [mailto:opensource@chatmud.com](opensource@chatmud.com). If the bug is of a non-urgent matter, open an issue in this repository.
+If you've identified a bug or security exploit with any of these scripts, please responsibly disclose it by emailing [opensource@chatmud.com](mailto:opensource@chatmud.com). If the bug is of a non-urgent matter, open an issue in this repository.
