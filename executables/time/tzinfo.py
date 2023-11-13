@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
 # Ghetto and quick way to output the most up-to-date time zone data from a system as JSON
 # Author: distantorigin <admin@anomalousabode.com>
