@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python
 # Script that wraps the wikiquotes package, which itself parses wikiquotes.
 # Accept arguments, output json.
 

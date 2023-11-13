@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python
 # Simple script that just uses a neat library to fetch various things about a word or phrase wiktionary knows about.
 
 import json
