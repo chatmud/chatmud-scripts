@@ -9,10 +9,10 @@ ops = ["search", "random_quote", "quote_of_the_day"]
 
 if __name__ == '__main__':
 	if len(sys.argv) < 2 or (len(sys.argv) == 2 and not sys.argv[1] == "quote_of_the_day"):
-		print("Usage: {} {} <author for search and random quote>".format(sys.argv[0], " | ".join(ops)))
+		print(("Usage: {} {} <author for search and random quote>".format(sys.argv[0], " | ".join(ops))))
 		sys.exit(1)
 	elif not sys.argv[1] in ops:
-		print("Unknown argument. Must be one of: ", ", ".join(ops))
+		print(("Unknown argument. Must be one of: ", ", ".join(ops)))
 		sys.exit(1)
 	
 	lang = os.environ.get("WIKIQUOTE_LANGUAGE", "english")

@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
 
 # imitate script
 # Author: Blake Oliver <oliver22213@me.com>
