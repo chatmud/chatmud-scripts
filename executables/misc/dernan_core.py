@@ -480,7 +480,7 @@ class ChannelMessage(coms_base):
 	sender_object = Column(types.VARCHAR(7))
 	prefix = Column(types.VARCHAR(30))
 	message = Column(types.TEXT, nullable=False)
-	social = Column(types.BLOB, server_default='')
+	social = Column(types.TEXT, server_default='')
 	verbatim = Column(types.Boolean)
 	time = Column(types.REAL, nullable=False)
 
